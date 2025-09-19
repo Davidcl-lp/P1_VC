@@ -16,20 +16,13 @@ El cuaderno `VC_P1.ipynb` incluye las siguientes tareas desarrolladas:
 ---
 
 ## Autores
-- ✍️ David Cabrera Luján 
-- ✍️ Nombre Apellido 2 (usuario GitHub)  
+- ✍️ David Cabrera Luján   
 
 ---
 
 ## Fuentes
 
 Para hacer este trabajo se ha consultado la documentación oficial de OpenCV u NumPy. Así como el uso de la IA sobre dudas acerca de la documentación, código, étc.
-
-## Requisitos de instalación
-Para ejecutar el cuaderno es necesario crear un entorno de Python (por ejemplo, con Anaconda) e instalar los siguientes paquetes:
-
-```bash
-pip install opencv-python matplotlib numpy
 
 
 
